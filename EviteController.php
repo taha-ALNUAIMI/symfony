@@ -6,12 +6,12 @@ use Sensio\Bundle\FrameworkExtraBundle\Configuration\Route;
 use Symfony\Bundle\FrameworkBundle\Controller\Controller;
 use Symfony\Component\HttpFoundation\Request;
 
-class GitHutController extends Controller
+class eviteController extends Controller
 {
     /**
-     * @Route("/", name="githut")
+     * @Route("/", name="evite")
      */
-    public function githutAction(Request $request)
+    public function eviteAction(Request $request)
     {
         // replace this example code with whatever you need
         return $this->render('githut/index.html.twig',[
