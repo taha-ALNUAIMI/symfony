@@ -1,4 +1,5 @@
 # symfony
+php -r "file_put_contents('symfony', file_get_contents('https://symfony.com/installer'));"
 symfony 2.8 http://developpement-informatique.com/uploads/docs/symfony/symfony28.zip
 symfony 3.2 http://developpement-informatique.com/uploads/docs/symfony/symfony32.zip﻿
 -------------------------------------------------------------------------------------------------
