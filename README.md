@@ -14,5 +14,5 @@ text to display
 {% endblock body %}
 ----------------------------------------------------------
 in view folder-name/base.html.twig
-for css -->         <link rel="stylesheet" href="{{ asset('css/style.css') }}">
+for css --><link rel="stylesheet" href="{{ asset('css/style.css') }}">
 
